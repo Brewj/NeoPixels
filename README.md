@@ -5,4 +5,4 @@ I've been tinkering with some NeoPixels, and a bunch of Raspberry-Pis and I've b
 
 CSV file needs Unix (LF) line breaks
 
-I'm also strugling with tryin to use a Python scrpt to control the NeoPixels, how does one stop the scrip, and set the LEDs to off?
+Work in progress is to add more patterns and resolve the utilisation of a python script running the lights as this delivers a smoother response.
